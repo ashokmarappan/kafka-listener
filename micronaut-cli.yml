@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: kafka.listener
+---
+testFramework: junit
+sourceLanguage: java

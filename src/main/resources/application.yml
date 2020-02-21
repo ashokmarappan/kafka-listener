@@ -1,0 +1,9 @@
+---
+micronaut:
+  application:
+    name: kafka-listener
+
+---
+kafka:
+  bootstrap:
+    servers: ${kafkabroker}:9092
